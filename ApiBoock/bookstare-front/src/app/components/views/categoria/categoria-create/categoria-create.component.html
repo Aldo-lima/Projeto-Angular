@@ -1,0 +1,14 @@
+<mat-card id="card_form"  class="mat-elevation-z8">
+    <form>
+        <h1>Nova categoria</h1>
+         <mat-form-field class="form">
+             <input  [(ngModel)]="categoria.nome" matInput type="text" name="nome" placeholder="Ex. Alimentos">
+         </mat-form-field> <br>
+         <div class=form >
+        <button  class="mat-elevation-z8" (click)="create()" mat-stroked-button color="primary" >CRIAR</button>
+         <button class="mat-elevation-z8" (click)="cancelar()"    mat-raised-button color="warn">Cancelar</button>
+        </div>
+        </form>
+
+  
+ </mat-card>

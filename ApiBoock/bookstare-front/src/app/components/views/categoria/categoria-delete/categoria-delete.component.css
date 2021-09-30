@@ -1,0 +1,23 @@
+#card_form{
+    text-align: center ;
+    width:80% ;
+    margin: 1rem;
+  }
+  
+  h1 {
+   font-size: 2rem;
+   font-weight: 500;
+   margin-top:  1rem;
+   margin-right: 5rem;
+  }
+   .form {
+       width: 100%;
+       text-align: start;
+  
+   }
+  
+   button {
+       margin-right: .5rem;
+       padding-right: 2rem;
+       padding-left: 2rem;
+   }

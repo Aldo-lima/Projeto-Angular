@@ -1,0 +1,20 @@
+body {
+background-color :#ADD8E6 ;
+
+}
+
+#nav1{
+background-color :#ADD8E6 ;
+margin:0px 0px 0px -12px;
+ width:1370px;
+ height: 50px;
+position: fixed;
+}
+
+#navl{
+background-color :#ADD8E6;
+margin:50px 0px 0px -12px;
+ width:50px;
+ height: 500px;
+position: fixed;
+}
